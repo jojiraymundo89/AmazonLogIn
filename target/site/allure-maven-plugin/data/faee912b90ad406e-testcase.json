@@ -1,0 +1,53 @@
+{
+  "uid" : "faee912b90ad406e",
+  "name" : "When I enter mohammad@technosoftacademy.io into username text fields on home screen",
+  "title" : "When I enter mohammad@technosoftacademy.io into username text fields on home screen",
+  "time" : {
+    "start" : 1518538817261,
+    "stop" : 1518538817261,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "62247af995179f69",
+    "name" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |",
+    "title" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Joselitos-MBP.home"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |"
+  }, {
+    "name" : "suite-name",
+    "value" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |"
+  }, {
+    "name" : "thread",
+    "value" : "1382@Joselitos-MBP.home.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "feature",
+    "value" : "Login feature"
+  } ],
+  "parameters" : [ ]
+}

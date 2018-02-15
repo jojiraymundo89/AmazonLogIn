@@ -1,0 +1,70 @@
+{
+  "hash" : "9ae4a52f46fbba0c959575303f697deb73e72d63",
+  "data" : [ {
+    "statistic" : {
+      "total" : 10,
+      "passed" : 10,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "time" : {
+      "start" : 1518538816893,
+      "stop" : 1518538822281,
+      "duration" : 5388
+    },
+    "name" : "total",
+    "type" : "TOTAL"
+  }, {
+    "name" : "defects",
+    "type" : "DEFECTS",
+    "data" : [ {
+      "count" : 0,
+      "message" : "There are no defects!",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "name" : "xunit",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Verify Invalid Login for multiple users | chris@technosoftacademy.io | abc1234 |",
+      "statistic" : {
+        "total" : 5,
+        "passed" : 5,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |",
+      "statistic" : {
+        "total" : 5,
+        "passed" : 5,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    } ]
+  }, {
+    "name" : "behaviors",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Login feature",
+      "statistic" : {
+        "total" : 10,
+        "passed" : 10,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    } ]
+  }, {
+    "name" : "environment",
+    "type" : "KEY_VALUE",
+    "data" : [ ]
+  } ]
+}

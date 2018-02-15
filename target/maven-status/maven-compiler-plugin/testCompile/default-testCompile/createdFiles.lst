@@ -1,0 +1,8 @@
+stepdefinition/SharedSD.class
+util/ConfigReader.class
+stepdefinition/AmazonLoginSD.class
+framework/LoginPage.class
+framework/TestRunner.class
+framework/HomePage.class
+stepdefinition/LoginSD.class
+framework/BasePage.class
